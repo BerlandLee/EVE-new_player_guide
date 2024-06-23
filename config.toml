@@ -2,7 +2,7 @@ baseurl = "https://github.com/BerlandLee/EVE-new_player_guide/tree/main/content/
 title = "EVE新玩家指南"
 languageCode = "zh-cn"
 
-theme = "hugo-theme-learn"
+theme = "hugo-themes-learn"
 publishdir = "public"
 builddrafts = true
 
