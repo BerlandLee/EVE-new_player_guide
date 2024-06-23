@@ -1,0 +1,14 @@
+baseurl = "https://github.com/BerlandLee/EVE-new_player_guide/tree/main/content/_index.md"
+title = "EVE新玩家指南"
+languageCode = "zh-cn"
+
+theme = "hugo-theme-learn"
+publishdir = "public"
+builddrafts = true
+
+[params]
+  editURL = "https://github.com/BerlandLee/EVE-new_player_guide/tree/main/content"
+  author = "Aaeriele"
+  disableLandingPageButton = true
+  disableMermaid = true
+  disableSearch = true
