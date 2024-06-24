@@ -7,8 +7,8 @@ publishdir = "public"
 builddrafts = true
 
 [params]
-  editURL = "https://github.com/BerlandLee/EVE-new_player_guide/tree/main/content"
-  author = "Aaeriele"
+  editURL = ""
+  author = "watch eagle"
   disableLandingPageButton = true
   disableMermaid = true
   disableSearch = true
